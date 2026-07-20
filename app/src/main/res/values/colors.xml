@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- VORTEX Dark Theme Colors (Material3) -->
+    <color name="bg_dark">#0A0A0F</color>
+    <color name="bg_card">#14141F</color>
+    <color name="bg_surface">#1E1E2E</color>
+    <color name="bg_surface_high">#282840</color>
+
+    <!-- Vortex kimliği: mor → camgöbeği geçişli vurgu -->
+    <color name="accent">#7C6AF7</color>
+    <color name="accent_dim">#4A3F9F</color>
+    <color name="accent_bright">#9C8CFF</color>
+    <color name="accent_secondary">#4AD9E8</color>
+
+    <color name="success">#2ECC71</color>
+    <color name="error">#FF5370</color>
+    <color name="warning">#F39C12</color>
+
+    <color name="text_primary">#F5F5FF</color>
+    <color name="text_secondary">#9A9AB8</color>
+    <color name="text_dim">#55556E</color>
+
+    <color name="chip_video_bg">#241E4E</color>
+    <color name="chip_audio_bg">#1A3A3E</color>
+
+    <color name="nav_selected">#9C8CFF</color>
+    <color name="nav_unselected">#55556E</color>
+
+    <color name="ripple_light">#33FFFFFF</color>
+</resources>

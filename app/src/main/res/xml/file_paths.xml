@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- DownloadService'in indirme sırasında kullandığı uygulamaya özel geçici dizinler -->
+    <external-files-path name="movies_staging" path="Movies/staging/" />
+    <external-files-path name="music_staging" path="Music/staging/" />
+
+    <!-- API 28 ve altında MediaStoreHelper'ın doğrudan yazdığı genel dizinler -->
+    <external-path name="public_movies" path="Movies/Vortex/" />
+    <external-path name="public_music" path="Music/Vortex/" />
+</paths>

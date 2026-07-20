@@ -1,0 +1,20 @@
+# Gradle
+.gradle/
+build/
+app/build/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+captures/
+
+# Local config (SDK yolu vb. - asla commit'lenmemeli)
+local.properties
+
+# Signing
+*.jks
+*.keystore
+
+# Misc
+.DS_Store
+*.log

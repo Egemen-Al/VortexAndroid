@@ -1,0 +1,2 @@
+-keep class com.vortex.downloader.** { *; }
+-keepattributes *Annotation*

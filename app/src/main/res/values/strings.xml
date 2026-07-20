@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vortex</string>
+    <string name="nav_home">İndir</string>
+    <string name="nav_history">Geçmiş</string>
+</resources>
